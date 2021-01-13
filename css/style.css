@@ -1,0 +1,22 @@
+.logo{
+    height: 60px;
+    width: 200px;
+}
+.my-card{
+    border: 0;
+}
+
+.my-card-footer{
+    border: 0;
+    background-color: white;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.my-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 6px;
+}
+
